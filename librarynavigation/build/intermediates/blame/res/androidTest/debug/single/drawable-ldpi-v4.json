@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Express\\Express\\librarynavigation\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_action_arrow_left.png",
+        "source": "E:\\Express\\Express\\librarynavigation\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\ic_action_arrow_left.png"
+    },
+    {
+        "merged": "E:\\Express\\Express\\librarynavigation\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_action_cancel.png",
+        "source": "E:\\Express\\Express\\librarynavigation\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\ic_action_cancel.png"
+    },
+    {
+        "merged": "E:\\Express\\Express\\librarynavigation\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_action_mic.png",
+        "source": "E:\\Express\\Express\\librarynavigation\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\ic_action_mic.png"
+    }
+]

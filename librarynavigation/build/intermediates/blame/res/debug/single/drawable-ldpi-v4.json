@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Express\\Express\\librarynavigation\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_cancel.png",
+        "source": "E:\\Express\\Express\\librarynavigation\\src\\main\\res\\drawable-ldpi\\ic_action_cancel.png"
+    },
+    {
+        "merged": "E:\\Express\\Express\\librarynavigation\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_arrow_left.png",
+        "source": "E:\\Express\\Express\\librarynavigation\\src\\main\\res\\drawable-ldpi\\ic_action_arrow_left.png"
+    },
+    {
+        "merged": "E:\\Express\\Express\\librarynavigation\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_mic.png",
+        "source": "E:\\Express\\Express\\librarynavigation\\src\\main\\res\\drawable-ldpi\\ic_action_mic.png"
+    }
+]
